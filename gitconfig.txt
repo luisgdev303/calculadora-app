@@ -3,3 +3,7 @@ git config --global user.email luisg.dev.lu@gmail.com
 
 -- Criar um projeto React Native Expo
 npx create-expo-app@latest calculadora --template blank
+
+cd calculadora
+
+npx expo start --android
